@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5722</color>
+    <color name="colorPrimaryDark">#232f34</color>
+    <color name="colorAccent">#f9aa33</color>
+    <color name="empty_in">@android:color/holo_red_light</color>
+    <color name="background_empty">@android:color/black</color>
+    <color name="background_eq">@android:color/white</color>
+    <color name="equation_tColor">@android:color/black</color>
+    <color name="equa_bg">#a1887f</color>
+</resources>

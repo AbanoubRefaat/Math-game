@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Brain Coach</string>
+    <string name="initial">0s</string>
+    <string name="gradeA">you have got an A </string>
+    <string name="gradeB">you have got a B </string>
+    <string name="gradeC">you have got a C </string>
+    <string name="gradeAStar">you have got an A* </string>
+    <string name="go30">GO 30s</string>
+    <string name="newGame">New Game</string>
+    <string name="empty_et">Please Enter Time \n or go 30 seconds</string>
+    <string name="equa">0 + 0</string>
+    <string name="score">0/0</string>
+    <string name="exit">EXIT</string>
+
+    <string name="answer1">Answer  1</string>
+    <string name="answer2">Answer  2</string>
+    <string name="answer3">Answer  3</string>
+    <string name="answer4">Answer  4</string>
+
+
+
+
+
+</resources>
